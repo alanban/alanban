@@ -3,7 +3,7 @@
 - 🔭 I’m an Android developer currently working on Xingzhe(上海大不自多信息科技有限公司 & XOSS Hong Kong Co.,)
 - 👯 I’m looking to collaborate on Android/Android framework/Flutter/ dev
 - 💬 Ask me about everything
-- 📫 How to reach me: <alanbansen@gmail.com> <alan@imxingzhe.com>
+- 📫 How to reach me: <alanbansen@gmail.com>
 - ⚡ Fun fact: I am funning handsome guy!🤓
 - ⭐️ Base: chengdu,sichuan,china
 <!--
